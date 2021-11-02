@@ -6,4 +6,5 @@ repopick -t sapphire-launcher
 repopick -t rec-basic-touch-sapphire
 repopick -t sapphire-fod
 repopick -t oss-ssr
+repopick -t sapphire-kd-monet-dnm
 ```
